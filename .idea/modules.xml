@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hr.iml" filepath="$PROJECT_DIR$/hr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrserver/hr-mapper/hr-mapper.iml" filepath="$PROJECT_DIR$/hrserver/hr-mapper/hr-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrserver/hr-model/hr-model.iml" filepath="$PROJECT_DIR$/hrserver/hr-model/hr-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrserver/hr-service/hr-service.iml" filepath="$PROJECT_DIR$/hrserver/hr-service/hr-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrserver/hrserver.iml" filepath="$PROJECT_DIR$/hrserver/hrserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mailserver/mailserver.iml" filepath="$PROJECT_DIR$/mailserver/mailserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrserver/webhr/webhr.iml" filepath="$PROJECT_DIR$/hrserver/webhr/webhr.iml" />
+    </modules>
+  </component>
+</project>
